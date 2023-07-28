@@ -28,7 +28,7 @@ A modern e-commerce web app optimized for user browsing experience.
 
 1. Andrew Liu
 2. Ty Hosn
-3. Joseph Camarena Castro
+3. Joseph Camarena Castro   -   https://www.notion.so/bc5fe7c6e6eb415b92f7a4ec0423115b?v=007c27e01eb64dc3add9f59a42d9eb69
 
 #### Management 
 https://trello.com/b/L4G6C1cU/project-management-fec
